@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Website-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" /></a>
-  <a href="mailto:yahya@example.com"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
+  <a href="mailto:yahyanursyafaady@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
   <a href="https://github.com/yyoukii"><img src="https://img.shields.io/badge/GitHub-yyoukii-8FAADC?style=for-the-badge&logo=github&logoColor=white&labelColor=3F4F44" alt="GitHub" /></a>
 </p>
