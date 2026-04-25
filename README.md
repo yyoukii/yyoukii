@@ -1,13 +1,13 @@
 <img src="./img/banner.jpg" alt="Yahya Nur Syafaady banner" width="100%" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20Profile&fontSize=31&fontColor=8DBA8E&fontAlignY=70&animation=fadeIn" alt="Welcome to My Profile" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20Digital%20Workspace&fontSize=31&fontColor=8DBA8E&fontAlignY=70&animation=fadeIn" alt="Welcome to My Digital Workspace" />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8DBA8E&height=1&section=header" width="100%" alt="Green divider" />
 </div>
 
 <p align="center">
-  Hi, I'm Yahya Nur Syafaady (Youki)! 👋 <br>
-  A developer who loves exploring the intersection of web development, mobile hardware, and system administration. I enjoy building modern user interfaces, pushing the limits of Android devices with Linux environments, and integrating AI to create practical tools.
+  Hi, I'm Yahya Nur Syafaady (Youki)! 👋 <br><br>
+  I am a passionate developer and tech enthusiast with a deep curiosity for how systems work under the hood. My expertise spans across modern web development, mobile system administration, and AI integration. I thrive on pushing the boundaries of conventional hardware—whether that means running native Linux environments on Android devices, building interactive AI-driven web terminals, or automating complex workflows to boost productivity. Welcome to my GitHub universe!
 </p>
 
 <p align="center">
@@ -24,38 +24,38 @@
 
 <img align="right" src="./img/sides.jpg" alt="Youki profile side image" width="270" />
 
-<h3>👤 Who I Am & What I Do</h3>
+<h3>👨‍💻 The Developer Behind the Code</h3>
 
-- 🔭 **Currently working on:** A personal portfolio website featuring an interactive AI terminal chat powered by the Cerebras API.
-- 💻 **Experimenting with:** Running Linux environments (like Debian/Ubuntu) on Android hardware and exploring system-level modifications.
-- 🚀 **Exploring:** Inter-Process Communication (IPC) architecture for Android development, drawing inspiration from tools like Termux:API.
-- 🛠️ **Building with:** Modern frontend ecosystems, crafting sleek and responsive interfaces using React 19, Vite, and Tailwind CSS.
-- 🎮 **In my free time:** I enjoy managing local game servers (such as SA-MP) and writing automation scripts to optimize daily digital workflows.
+- 🔭 **Currently Architecting:** A next-generation personal portfolio website designed as an interactive web terminal, fully powered by the Cerebras API to deliver real-time AI conversational experiences directly to visitors.
+- 💻 **Hardware & System Tinkering:** Pushing the limits of mobile devices by deploying and managing full-fledged Linux distributions (such as Debian Trixie and Ubuntu) directly on Android hardware, alongside deep system-level modifications.
+- 🚀 **Mobile Engineering:** Conceptualizing and developing advanced Android applications that leverage Inter-Process Communication (IPC) architectures, drawing heavy inspiration from tools like Termux:API for seamless system integration.
+- 🛠️ **Frontend Development:** Crafting sleek, highly responsive, and user-centric web interfaces using the latest frontend ecosystems, primarily focusing on React 19, Vite, and Tailwind CSS.
+- 🎮 **Server & Automation:** Managing and configuring local multiplayer game servers (like SA-MP) for the community, while constantly writing custom Bash and Node.js scripts to automate redundant daily tasks.
 
 <br clear="right" />
 
-<h3>🎯 Development Goals & Interests</h3>
+<h3>🎯 Engineering Focus & Future Quests</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Web & Software Development</strong>
+      <strong>🌐 Web & AI Integration</strong>
       <ul>
-        <li>Building seamless web applications that pair intuitive frontends with smart backend APIs.</li>
-        <li>Integrating AI language models into lightweight, accessible interfaces (like web terminals).</li>
+        <li>Developing seamless, full-stack web applications that bridge the gap between highly optimized, intuitive user interfaces and smart, scalable backend APIs.</li>
+        <li>Exploring the practical implementation of Large Language Models (LLMs) into lightweight, accessible interfaces to solve real-world problems.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>Systems & Infrastructure</strong>
+      <strong>⚙️ Systems & Infrastructure</strong>
       <ul>
-        <li>Bridging the gap between Android hardware capabilities and powerful Linux system tools.</li>
-        <li>Creating custom, automated environments to boost development speed and daily productivity.</li>
+        <li>Unlocking the true potential of Android hardware by establishing a reliable bridge to powerful, desktop-grade Linux system utilities and environments.</li>
+        <li>Designing custom, automated local development environments that maximize efficiency, reduce friction, and enhance overall daily coding productivity.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<h3>💻 Technologies & Tools</h3>
+<h3>🧰 The Arsenal: Technologies & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=8DBA8E" alt="React" />
@@ -69,16 +69,16 @@
   <img src="https://img.shields.io/badge/Node.js-2F4F3A?style=for-the-badge&logo=nodedotjs&logoColor=F6E7B7" alt="Node.js" />
 </p>
 
-<h3>📊 GitHub Stats</h3>
+<h3>📈 GitHub Telemetry & Logs</h3>
 
 <table align="center">
   <tr>
     <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/card?username=yyoukii&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&show_icons=true&show_ring=false&hide=grade&custom_title=GitHub%20Stats" alt="GitHub stats" />
+      <img width="100%" src="https://ghstats.dev/api/card?username=yyoukii&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&show_icons=true&show_ring=false&hide=grade&custom_title=Commit%20Telemetry" alt="GitHub stats" />
     </td>
     <td width="2%"></td>
     <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/langs?username=yyoukii&layout=bar&max_langs=6&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&custom_title=Top%20Languages" alt="Top languages" />
+      <img width="100%" src="https://ghstats.dev/api/langs?username=yyoukii&layout=bar&max_langs=6&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&custom_title=Language%20Distribution" alt="Top languages" />
       <br/>
       <img width="100%" src="https://streak-stats.demolab.com?user=yyoukii&theme=dark&hide_border=true&background=0D1117&ring=8DBA8E&fire=D6A85E&currStreakLabel=8DBA8E&sideNums=D6A85E&currStreakNum=D6A85E&dates=A8B3A9&sideLabels=A8B3A9&card_height=250" alt="GitHub streak stats" />
     </td>
